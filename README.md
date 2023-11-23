@@ -28,7 +28,7 @@ To get started, follow these steps:
 1. Fork this repository to your own GitHub account by clicking the "Fork" button at the top right of this page.
 2. Clone your forked repository to your local machine:
 ```
-git clone git@github.com:ZeroDarkHardy/this_repo_is_doomed.git
+git clone git@github.com:ZeroDarkHardy/this_repo_is_doomed.git # or copy the SSH clone code from the "clone" menu
 cd this_repo_is_doomed
 ```
 
