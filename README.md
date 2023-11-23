@@ -28,8 +28,8 @@ To get started, follow these steps:
 1. Fork this repository to your own GitHub account by clicking the "Fork" button at the top right of this page.
 2. Clone your forked repository to your local machine:
 ```
-git clone https://github.com/YOUR_USERNAME/demo-merge-conflicts.git
-cd demo-merge-conflicts
+git clone git@github.com:ZeroDarkHardy/this_repo_is_doomed.git
+cd this_repo_is_doomed
 ```
 
 
